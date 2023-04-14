@@ -10,3 +10,9 @@ It is a real-time news delivery website developed to understand full stack devel
 - React.js
 - Next.js
 - Stepzen (GraphQL API)
+
+# Features
+
+- Real-time news
+- Dark/Light Mode
+- Responsive
